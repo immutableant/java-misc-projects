@@ -4,7 +4,7 @@ This repository contains a collection of miscellaneous Java projects, each of wh
 
 ## Table of Contents
 
-1. [Concurrent Number Printing](./projects/concurrent-number-printing/README.md)
+1. [Concurrent Number Printing](/projects/concurrent-number-printer/README.MD)
 2. ...
 
 
